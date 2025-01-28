@@ -12,7 +12,7 @@ Muktar Ahmed; Fasil Tekola-Ayele; Tesfaye B. Mersha; Azmeraw T. Amare
 
 Published in Human Genomics.
 
-This repository includes the Python scripts used to generate the visualizations featured in the manuscript.
+This repository includes the Python and R scripts used to generate the visualizations featured in the manuscript.
 
 PubmedCitations_SeqCost_Trend.py (Generates Figure 1): Log-Transformed Trends in PubMed Citation Frequencies and Sequencing Costs (2000–2024). Visualizes the growth in PubMed citations 
 for key terms (multi-omics, personalized medicine, and GxE interactions) alongside the decline in sequencing costs.
